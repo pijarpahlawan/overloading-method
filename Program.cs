@@ -13,7 +13,6 @@ namespace LatihanOverloadingMethod
             Console.WriteLine();
             Console.WriteLine("Maximum #1: {0}", number.FindMaximum(3, 1));
             Console.WriteLine("Maximum #2: {0}", number.FindMaximum(3, 2, 4));
-            Console.ReadKey();
         }
     }
 }
